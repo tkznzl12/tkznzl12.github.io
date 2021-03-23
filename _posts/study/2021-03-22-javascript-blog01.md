@@ -37,18 +37,18 @@ comments: true
    -
    정규표현식을 컴파일 해서 객체를 만들었다면 아제 문자열에서 원하는 문자를 찾아내야함
    <br>
->   - **RegExp.exec() : (추츨)**
-    pattern.exec('abcde');를 할경우 도출되는 것은 a이다.
-    (입력한것 중에 a가 있다는 의미.)
-    만약 a가 없을경우엔 null이 뜬다.
-   <br>
-    - **RegExp.test() : (존재유무를 test)**
-     pattern.test('abcde');를 할경우 도출되는 것은 true이다.
-     (입력한것 중에 a가 있다는 의미.)
+>   - **RegExp.exec() : (추출)**
+>    pattern.exec('abcde');를 할경우 도출되는 것은 a이다.
+>    (입력한것 중에 a가 있다는 의미.)
+>    만약 a가 없을경우엔 null이 뜬다.
+><br>
+>    - **RegExp.test() : (존재유무를 test)**
+>     pattern.test('abcde');를 할경우 도출되는 것은 true이다.
+>     (입력한것 중에 a가 있다는 의미.)
 >     만약 a가 없을경우엔 false가 뜬다.
    <br>
    <hr>
-   -
+
 >   - **문자열 메소드**
     ***String.match()***
     RegExp.exec()와 비슷함.
@@ -58,7 +58,7 @@ comments: true
 
   - **옵션**
    */"string"/**i***
-   : i가 붙어있다는 것은 대소문자를 구분하지 않겠다는 의미
+   : i가 붙어있다는 것은 대소문자를 구분하지 않겠다는 의미<br>
    */"string"/**g***
    : //안의 문자의 갯수 만큼을 출력하겠다는 의미   
   **두개를 합쳐서 사용할 수도 있음.**
