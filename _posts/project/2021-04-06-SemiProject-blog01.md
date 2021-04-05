@@ -8,3 +8,8 @@ comments: true
 ---
 
 #멘도롱소랑
+
+
+
+![슬라이드1](/assets/슬라이드1.JPG)
+![슬라이드2](/assets/슬라이드2.JPG)
