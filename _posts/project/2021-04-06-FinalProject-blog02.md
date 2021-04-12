@@ -9,7 +9,7 @@ comments: true
 
 # 라온나드리&라온홈스테이
 
->**프로젝트 기간 : 20.11.23 ~ 20.12.09(약 2주)**
+>**프로젝트 기간 : 20.01.11~20.02.15 (약 1개월)**
 >
 >**사용한 언어&라이브러리 : Java, JavaScript, css, Thymeleaf ,React, material-ui**
 >
